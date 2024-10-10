@@ -5,7 +5,6 @@ This project is a MERN stack application that provides a ledger for managing tra
 ## Table of Contents
 
 - [Prerequisites](#prerequisites)
-- [Folder Structure](#folder-structure)
 - [Backend Setup](#backend-setup)
 - [Running the Application](#running-the-application)
 - [License](#license)
